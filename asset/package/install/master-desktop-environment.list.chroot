@@ -18,6 +18,10 @@ mate-applets
 mate-applet-brisk-menu
 mate-applet-appmenu
 
+mate-media
+mate-polkit
+mate-system-monitor
+
 
 
 
