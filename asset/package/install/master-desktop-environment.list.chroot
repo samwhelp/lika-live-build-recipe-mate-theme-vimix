@@ -12,11 +12,13 @@
 ##
 
 mate-desktop-environment
+mate-desktop-environment-extra
 mate-tweak
 
 mate-applets
 mate-applet-brisk-menu
 mate-applet-appmenu
+mate-dock-applet
 
 mate-media
 mate-polkit
