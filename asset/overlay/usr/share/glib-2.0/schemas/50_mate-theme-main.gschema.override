@@ -1,18 +1,15 @@
 
 
 [org.mate.Marco.general]
-theme='Arc-Dark'
+theme='Vimix-dark-ruby'
 
 
 [org.mate.interface]
-gtk-theme='Arc-Dark'
-icon-theme='Papirus-Dark'
+gtk-theme='Vimix-dark-ruby'
+icon-theme='Citrus-red-dark'
 
 
 [org.mate.peripherals-mouse]
 cursor-theme='breeze_cursors'
 cursor-size=24
-
-
-
 

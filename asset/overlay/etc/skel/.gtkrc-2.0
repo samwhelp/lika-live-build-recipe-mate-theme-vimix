@@ -5,8 +5,8 @@
 ##
 
 
-gtk-theme-name="Arc-Dark"
-gtk-icon-theme-name="Papirus-Dark"
+gtk-theme-name="Vimix-dark-ruby"
+gtk-icon-theme-name="Citrus-red-dark"
 gtk-font-name="Sans 12"
 gtk-cursor-theme-name="breeze_cursors"
 gtk-cursor-theme-size=24
