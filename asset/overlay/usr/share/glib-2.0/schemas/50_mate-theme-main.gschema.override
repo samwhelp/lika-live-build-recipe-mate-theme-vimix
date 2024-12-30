@@ -6,7 +6,8 @@ theme='Vimix-dark-ruby'
 
 [org.mate.interface]
 gtk-theme='Vimix-dark-ruby'
-icon-theme='Citrus-red-dark'
+#icon-theme='Citrus-red-dark'
+icon-theme='Numix-Circle'
 
 
 [org.mate.peripherals-mouse]
