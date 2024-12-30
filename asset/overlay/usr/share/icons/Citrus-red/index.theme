@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Citrus-red
 Comment=Flat and colorful personality icon theme
-Inherits=Numix-Circle-Light,Numix-Light,breeze,Adwaita,hicolor
+Inherits=Numix-Circle-Light,Numix-Light,breeze,Adwaita,gnome,hicolor
 
 Example=folder
 FollowsColorScheme=true
